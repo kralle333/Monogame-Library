@@ -13,3 +13,175 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/Alien0.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/Alien0.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/Alien1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/Alien1.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/Alien2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/Alien2.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/Alien3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/Alien3.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/AlienIdle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/AlienIdle.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/AlienWalking-Green.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/AlienWalking-Green.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/BigFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:../../../MultiShooterGame/MultiShooterGame/Content/BigFont.spritefont
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/blocks.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/blocks.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/blocks1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/blocks1.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/bullets.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/bullets.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/Font1.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:../../../MultiShooterGame/MultiShooterGame/Content/Font1.spritefont
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/HealthFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:../../../MultiShooterGame/MultiShooterGame/Content/HealthFont.spritefont
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/Menu.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/Menu.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/MenuMarked.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/MenuMarked.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/player.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/player.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/soldier.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/soldier.png
+
+#begin ../../../MultiShooterGame/MultiShooterGame/Content/splitscreenborder.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:../../../MultiShooterGame/MultiShooterGame/Content/splitscreenborder.png
+
